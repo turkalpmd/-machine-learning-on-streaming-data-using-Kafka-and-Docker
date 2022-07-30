@@ -5,12 +5,13 @@ I have completed my first project that machine learning on streaming data using 
 # Steps of process:
 ##### 1- install vscode
 ##### 2- install anaconda
-##### 3- create nev envoirement on conda
+##### 3- create nev enviroment on conda
 ##### 4- install docker
 ##### 5- install docker-compose
 ##### 6- install docker desktop (https://www.youtube.com/watch?v=Vplj9b0L_1Y)
 ##### 7- download docker-compose.yaml (https://github.com/cigdemkadakoglu/apache-kafka)
 ##### 8- docker-composeup -d
+   * https://www.youtube.com/playlist?list=PLZYKO7600KN9ttvG0mFYzP82AbIdeJYwq this video very useful but Turkish. (sonunda bu espriyi yapabildim.)
 ##### 9- you can check containers with docker ps or docker stats -a
 ##### 10- create topic 
   * I am really hardned with creating topic. Because of sh bash or another concepts are far to my domain. 
